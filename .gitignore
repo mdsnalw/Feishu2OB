@@ -1,0 +1,18 @@
+# WorkBuddy 内部工作日志（含飞书 appToken/tableID 等，不公开）
+.workbuddy/
+
+# 临时文件
+__pycache__/
+*.pyc
+*.log
+_*.py
+_test_*.bat
+_bat_*.txt
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 密钥文件（万一）
+.env
+*.secret
