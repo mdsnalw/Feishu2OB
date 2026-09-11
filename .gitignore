@@ -9,6 +9,9 @@ _*.py
 _test_*.bat
 _bat_*.txt
 
+# 快捷方式（内含本地绝对路径，不适合公开）
+*.lnk
+
 # 系统文件
 Thumbs.db
 .DS_Store
